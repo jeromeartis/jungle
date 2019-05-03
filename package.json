@@ -1,0 +1,20 @@
+{
+  "name": "jungle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jungle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeromeartis/jungle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeromeartis/jungle/issues"
+  },
+  "homepage": "https://github.com/jeromeartis/jungle#readme"
+}
